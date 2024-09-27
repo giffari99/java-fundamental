@@ -1,6 +1,6 @@
 package com.juaracoding;
 
-public class Main {
+public class FirstJava {
     public static void main(String[] args) {
         System.out.println("Hello juara coding!");
         System.out.println("giffari ganteng");
