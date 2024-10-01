@@ -3,7 +3,7 @@ package com.juaracoding;
 public class FirstJava {
     public static void main(String[] args) {
         System.out.println("Hello juara coding!");
-        System.out.println("giffari ganteng");
+        System.out.println("giffari 111");
 
 
         int x = 100;
