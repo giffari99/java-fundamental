@@ -23,7 +23,7 @@ public class Percabangan {
             System.out.println("Suhu Tidak Normal");
         }
 
-
+        //bilangan ganjil genap
         int angka = 5;
         if(angka % 2 == 0){ // 5 % 2 = 1 == 0 (false)
             System.out.println("Bilangan Genap");
@@ -34,7 +34,7 @@ public class Percabangan {
 
         //if majemuk
         // size S = 10000 M = 20000 L = 30000
-        String size = "s";
+        String size = "m";
         int qty = 2;
         int price = 0;
         if(size.equalsIgnoreCase("S")){

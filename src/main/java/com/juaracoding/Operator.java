@@ -5,7 +5,7 @@ public class Operator {
 
         //aritmatika
 
-        double result = 5.0/2;
+        double result = 5.0 / 2;
         System.out.println(result);
         int modulus = 11 % 2;
         System.out.println(modulus);
@@ -32,7 +32,7 @@ public class Operator {
         System.out.println(w);
 
         //relational
-        boolean isResult =  5 < 5;
+        boolean isResult =  5 > 5;
         System.out.println(isResult);
 
 
