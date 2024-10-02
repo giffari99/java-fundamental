@@ -31,6 +31,9 @@ public class Variable {
 
         // lebih baik menggunakan (int) kecil
         String nama = "Giffari";
+
+//      int umursaya;
+//      umursaya = 173 + 18; atau pakai ini juga bisa
         byte umur = 25;
         short tinggi = 161;
         String alamat = "Jagakarsa, Jakarta Selatan";
@@ -39,7 +42,8 @@ public class Variable {
         System.out.println("Nama : " + nama);
         System.out.println("umur : " + umur);
         System.out.println("Alamat : "+ alamat);
-        System.out.println();
+        System.out.println("Tinggi : " + tinggi);
+        System.out.println("Apakah dia student ? : " + isStudent );
 
 
 

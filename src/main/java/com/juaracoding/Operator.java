@@ -16,9 +16,9 @@ public class Operator {
         System.out.println(hasil);
 
 
-        //int a = 2;
-        //int hasil2 = 10 * ++a;  // di tambah (Prefix)
-        //System.out.println(hasil2);
+        int a = 2;
+        int hasil2 = 10 * ++a;  // di tambah (Prefix)
+        System.out.println(hasil2);
 
 
         int total = 12 + 5;
@@ -26,10 +26,10 @@ public class Operator {
 
 
         //assignmen
-        int a = 10;
-        int b = 20;
-        a += b; // a = a + b
-        System.out.println(a);
+        int w = 10;
+        int q = 20;
+        w += q; // w = w + q
+        System.out.println(w);
 
         //relational
         boolean isResult =  5 < 5;
